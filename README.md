@@ -1,7 +1,7 @@
 # ANDRE FROES MRO. | Software Engineer 🚀
 
 [![English](https://img.shields.io/badge/US_English--blue?style=for-the-badge&logo=google-translate&logoColor=white)](README.md)
-[![Português](https://img.shields.io/badge/BR_PORTUGUESE--BR?style=for-the-badge&logo=google-translate&logoColor=white)](README.pt-br.md)
+[![Português](https://img.shields.io/badge/BR_PORTUGUESE--BR?style=for-the-badge&logo=google-translate&logoColor=white)](docs/cv-pt-br.md)
 
 ### 👨‍💻 About Me
 I am a Software Engineer, graduated in **Systems Analysis and Development** in 2017. I specialize in architecting, developing, and delivering high-impact solutions for **ERP ecosystems**, with over 10 years of experience.
