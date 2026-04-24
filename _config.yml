@@ -1,3 +1,5 @@
 # theme: jekyll-theme-minimal
 title: Andre Froes
 description: About Me
+minima:
+  skin: dark
