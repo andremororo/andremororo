@@ -21,7 +21,7 @@ I have extensive experience managing the full software delivery lifecycle, ensur
 ![ECM | Fluig](https://img.shields.io/badge/BPM_/_ECM_%7C_Fluig--blue?&logoColor=white&labelColor=white)  
 
 #### **Languages & Web Stack**
-![AdvPL/TLpp](https://img.shields.io/badge/AdvPL%20/%20TLPP--blue?labelColor=white&style=flat-square&logoColor=white)
+![AdvPL/TLpp](https://img.shields.io/badge/AdvPL%20/%20TLPP--blue?labelColor=white&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5--E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3--1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript--F7DF1E?style=flat-square&logo=javascript&logoColor=black)
