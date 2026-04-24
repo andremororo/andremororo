@@ -38,7 +38,7 @@ Possuo ampla experiência na gestão do ciclo de vida completo de entrega de sof
 
 #### **DevOps e Infraestrutura**
 ![Git](https://img.shields.io/badge/Git--F05032?style=flat-square&logo=git&logoColor=white)
-![GitKraken_|_Gitlens](https://img.shields.io/badge/GitKraken_|_Gitlens--179287?style=flat-square&logo=gitkraken&logoColor=white)
+![Gitlens](https://img.shields.io/badge/Gitlens--179287?style=flat-square&logo=gitkraken&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions--2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket%20Pipelines--0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI--FC6D26?style=flat-square&logo=gitlab&logoColor=white)
