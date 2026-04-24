@@ -3,8 +3,8 @@ layout: default
 ---
 # ANDRE FROES MRO. | Engenheiro de Software 🚀
 
-[![English](https://img.shields.io/badge/US_English--blue?style=for-the-badge&logo=google-translate&logoColor=white)](./cv-en-us.md)
-[![Português](https://img.shields.io/badge/BR_PORTUGUESE--BR?style=for-the-badge&logo=google-translate&logoColor=white)](./cv-pt-br.md)
+[![English](https://img.shields.io/badge/US_English--blue?style=for-the-badge&logo=google-translate&logoColor=white)](https://andremororo.github.io/andremororo/README.html)
+[![Português](https://img.shields.io/badge/BR_PORTUGUESE--BR?style=for-the-badge&logo=google-translate&logoColor=white)](https://andremororo.github.io/andremororo/docs/cv-pt-br.html)
 
 ### 👨‍💻 Sobre Mim
 Sou Engenheiro de Software, graduado em **Análise e Desenvolvimento de Sistemas** desde 2017. Especializei-me em arquitetar, desenvolver e entregar soluções de alto impacto para **ecossistemas ERP**, com mais de 10 anos de trabalho.
