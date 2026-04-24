@@ -5,10 +5,10 @@ _Please select a language to view my resume:_
 
 ---
 
-### 🇧🇷 [Visualizar em Português](README.pt-br.md)
+### 🇧🇷 [Visualizar em Português](docs/cv-pt-br.md)
 *Currículo detalhado com minhas experiências e formação.*
 
-### 🇺🇸 [View in English](./README.md)
+### 🇺🇸 [View in English](docs/cv-en-us.md)
 *Detailed resume with my professional experience and education.*
 
 ---
