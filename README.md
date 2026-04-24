@@ -1,9 +1,3 @@
----
-layout: default
-title: Resume
-permalink: /resume/
----
-
 # ANDRE FROES MRO. | Software Engineer 🚀
 
 [![English](https://img.shields.io/badge/US_English--blue?style=for-the-badge&logo=google-translate&logoColor=white)](README.md)
