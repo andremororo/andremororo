@@ -4,7 +4,7 @@
 [![Português](https://img.shields.io/badge/BR_PORTUGUESE--BR?style=for-the-badge&logo=google-translate&logoColor=white)](README.pt-br.md)
 
 ### 👨‍💻 About Me
-I'm a Software Engineer with a degree in **Systems Analysis and Development** since 2017. I specialize in architecting, developing, and delivering high-stakes solutions for **ERP ecosystems** for over 10 years. 
+I am a Software Engineer, graduated in **Systems Analysis and Development** in 2017. I specialize in architecting, developing, and delivering high-impact solutions for **ERP ecosystems**, with over 10 years of experience.
 
 I have extensive experience managing the full software delivery lifecycle, ensuring that complex business requirements are translated into scalable, production-ready systems.
 
