@@ -22,11 +22,11 @@ I have extensive experience managing the full software delivery lifecycle, ensur
 ### 🛠️ Core Expertise & ERP Ecosystem
 
 #### **Main Focus (TOTVS)**
-![ERP | Protheus](https://img.shields.io/badge/ERP_%7C_Protheus--blue?&logoColor=white&labelColor=white)  
-![ECM | Fluig](https://img.shields.io/badge/BPM_/_ECM_%7C_Fluig--blue?&logoColor=white&labelColor=white)  
+[![ERP | Protheus](https://img.shields.io/badge/ERP_%7C_Protheus--blue?&logoColor=white&labelColor=white)](https://en.totvs.com/management-system/)
+[![ECM | Fluig](https://img.shields.io/badge/BPM_/_ECM_%7C_Fluig--blue?&logoColor=white&labelColor=white)](https://en.totvs.com/fluig/)
 
 #### **Languages & Web Stack**
-![AdvPL/TLpp](https://img.shields.io/badge/AdvPL%20/%20TLPP--blue?labelColor=white&logoColor=white)
+[![AdvPL/TLpp](https://img.shields.io/badge/AdvPL%20/%20TLPP--blue?labelColor=white&logoColor=white)](https://tdn.totvs.com/display/tec/TLPP)
 ![HTML5](https://img.shields.io/badge/HTML5--E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3--1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript--F7DF1E?style=flat-square&logo=javascript&logoColor=black)
